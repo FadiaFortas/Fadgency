@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Titillium+Web:wght@300&display=swap');/* CSS files add styling rules to your content */
+
+.title {
+  text-align: center;
+  color: #05668d;
+  font-style: italic;
+  background: #f0f3bd;
+}
+#Fad {
+  font-size: 85px;
+  font-style: normal;
+}
+#For {
+  font-size: 5px;
+  font-style: italic;
+}
+
+
+p {
+  font-size: 19px;
+  text-align: center;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.second{
+ display: inline-block;
+  width: 20%;
+  background: #00a896;
+  float: center;
+  margin-left:5em;
+  margin-right:5em;
+  margin-top:1em;
+  font-size: 17px;
+  vertical-align:top;
+  }
+
+
+.first{
+  display: inline-block;
+  width: 20%;
+  background: #00a896;
+  float: center;
+  margin-left:5em;
+  margin-right:5em;
+  margin-top:1em;
+  color:white;
+  text-align:center;
+  font-size:17px;
+  vertical-align: middle;
+  font-weight:bold;
+}
+.text{
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+  color: black;
+}
+.middletext{
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+  color: white;
+}
+.middlefirst{
+  display: inline-block;
+  width: 30%;
+  background: #028090;
+  float: center;
+  margin-left:7em;
+  margin-right:7em;
+  margin-top:1em;
+  color:white;
+  text-align:center;
+  font-size:17px;
+  vertical-align: middle;
+  font-weight:bold;
+}
+
+.middlesecond{
+ display: inline-block;
+  width: 30%;
+  background: #028090;
+  float: center;
+  margin-left:7em;
+  margin-right:7em;
+  margin-top:1em;
+  font-size: 17px;
+  vertical-align:top;
+  }
+.closing{
+  font-size: 75px;
+  text-align: center;
+  color: #05668d;
+  font-style: normal;
+  background: #f0f3bd;
+}
